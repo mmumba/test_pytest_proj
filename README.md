@@ -1,3 +1,3 @@
 # test_pytest_proj
-working through a tutorial  [PyTest Tutorial: What is, Install, Fixture, Assertions](https://www.guru99.com/pytest-tutorial.html)
+working through a tutorial  [Testing python applications with pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 
